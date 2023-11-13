@@ -77,6 +77,12 @@ This should cover most attacks, I've built my own WAF module a while ago, that I
 UK hosting providers, as well as anything that isn't from the UK. Annoyingly, this wont work here as we are going to _assume_ this API will have
 international users
 
+### Task 2
+
+Task 2 is to create a service account that can invoke the cloud run service.
+
+See [task-2/README](task-2/README.md) for details
+
 ## SBOM
 
 I guess this section will list the _external_ resources we used, and why
