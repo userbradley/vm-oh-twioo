@@ -28,7 +28,7 @@ which I _think_ you can do with [Service Perimeter](https://cloud.google.com/vpc
 
 This is the mechanism in GKE (My fav product) which allows workloads to authenticate to GCP
 
-To configure this, follow the documentation I wrote [Configure Workload Identity]https://documentation.breadnet.co.uk/kubernetes/gke/configure-gke-workload-identity/
+To configure this, follow the documentation I wrote [Configure Workload Identity](https://documentation.breadnet.co.uk/kubernetes/gke/configure-gke-workload-identity/)
 
 ### Workload Identity Federation
 
